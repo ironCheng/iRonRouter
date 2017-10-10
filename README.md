@@ -1,5 +1,5 @@
 # iRonRouter
-a Router on iOS / iOS里实现路由
+a Router on iOS,random transfer / iOS里的路由，实现任意页面跳转
 
 <p>
   
